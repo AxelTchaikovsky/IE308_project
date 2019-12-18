@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data folder
+data/
+.vscode/
+result/
+saved_model/
+nohup.out
+/.idea/
